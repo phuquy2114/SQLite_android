@@ -4,7 +4,6 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.uits.sqlite.dbSqlite.DatabaseHelper;
 import com.uits.sqlite.model.Note;
 import com.uits.sqlite.utils.MyDividerItemDecoration;
